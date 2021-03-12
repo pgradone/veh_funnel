@@ -1,0 +1,30 @@
+{
+  "name": "veh_funnel",
+  "version": "1.0.0",
+  "description": "veges en herbes funnel ecommerce",
+  "main": "server.js",
+  "dependencies": {
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "method-override": "^3.0.0",
+    "mongoose": "^5.11.20"
+  },
+  "devDependencies": {
+    "dotenv": "^8.2.0",
+    "nodemon": "^2.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pgradone/veh_funnel.git"
+  },
+  "author": "pgradone",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pgradone/veh_funnel/issues"
+  },
+  "homepage": "https://github.com/pgradone/veh_funnel#readme"
+}
